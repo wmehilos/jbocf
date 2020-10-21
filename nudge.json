@@ -1,0 +1,35 @@
+{
+    "preferences": {
+        "button_title_text": "Ready to start the upgrade?",
+        "button_sub_titletext": "Click on the button below.",
+        "cut_off_date": "2020-11-15-00:00",
+        "cut_off_date_warning": 14,
+        "days_between_notifications": 1,
+        "logo_path": "/Library/ACCC/Pictures/logo.png",
+        "main_subtitle_text": "Notification from the Endpoint Management Team",
+        "main_title_text": "macOS Upgrade Available",
+        "minimum_os_sub_build_version": "19H2",
+        "minimum_os_version": "10.15.7",
+        "more_info_url": "https://google.com",
+        "no_timer": false,
+        "paragraph1_text": "Your Mac is behind on macOS updates.",
+        "paragraph2_text": "The Endpoint Management team will be upgrading all Macs automatically to the newest version of macOS Catalina on November 15th. However, it is recommended you pick a time yourself to perform the upgrade before this date, to minimize any work disruptions. The longest these upgrade should take is about 45 minutes. If you're on a notebook, please leave it plugged into power, with the lid open for the duration.",
+        "paragraph3_text": "To begin the process, simply click on the button below to open Software Center and choose Upgrade to Catalina. Note that macOS Catalina removes support for 32-bit applications. You can click the Run 32-bit App Report Policy in Software Center to see what applications you have that are 32-bit. These applications should be updated or replaced if possible. You can also request an exception to be allowed to stay on macOS Mojave (also in Software Center).",
+        "paragraph_title_text": "Pending macOS Upgrade is available",
+        "local_url_for_upgrade": "jamfselfservice://content?action=category&id=20",
+        "random_delay": false,
+        "screenshot_path": "/path/to/update_ss.png",
+        "timer_day_1": 600,
+        "timer_day_3": 7200,
+        "timer_elapsed": 10,
+        "timer_final": 60,
+        "timer_initial": 14400,
+        "update_minor": true,
+        "update_minor_days": 14
+    },
+    "software_updates": [{
+        "name": "091-22861",
+        "force_install_date": "2019-12-31-00:00"
+    }]
+}
+
